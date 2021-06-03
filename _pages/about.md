@@ -4,6 +4,8 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+# My Name is Brandon Cole
+
+I am a productivity enthusiast.
 
 Feel free to tell the world about what you love! 😍
