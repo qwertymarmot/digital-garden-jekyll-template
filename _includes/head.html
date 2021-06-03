@@ -11,6 +11,8 @@
 
   <link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgo=">
 
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&amp;family=Inconsolata:wght@400&amp;family=Raleway:wght@500;600;700&amp;display=block">
+
   <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
 
   {% if page.excerpt %}
@@ -37,6 +39,17 @@
   {% if page.image %}
   <meta property="og:image" content="{{ site.url }}{{ page.image }}">
   {% endif %}
+
+  <header>
+    <nav>
+      <a href='/index/'>
+        My Garden
+      </a>
+      <a href='/about/'>
+        About
+      </a>
+    </nav>
+  </header>
 
   <title>
     {% if page.id == "home" %}
