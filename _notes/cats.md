@@ -1,6 +1,6 @@
 ---
 title: A note about cats
-categories: Tech
+tags: Tech
 ---
 
 This is a second note with a poem with cats.

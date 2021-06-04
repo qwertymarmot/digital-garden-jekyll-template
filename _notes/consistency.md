@@ -1,6 +1,6 @@
 ---
 title: Consistency is key
-categories: Personal
+category: Personal
 ---
 
 Show up. Do the work. Be consistent.
