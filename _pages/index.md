@@ -8,7 +8,7 @@ permalink: /
 # Welcome to the Garden! 🌿
 
 <p style="padding: 1em; background: #ffffff; border-radius: 4px; text-shadow: 0 1px white; box-shadow: -10px -10px 30px rgb(255 255 255 / 5%), 10px 10px 30px rgb(0 0 0 / 20%);">
-  Take a look at <span style="font-weight: bold">[[Enter the Garden|garden entrance]]</span> to get started on your exploration.
+  Time to <span style="font-weight: bold">[[garden entrance|Enter the Garden]]</span>?
 </p>
 
 Hello my name is Brandon. I am an application support administrator and a department manager for an organization that provides IT support and services to libraries.
