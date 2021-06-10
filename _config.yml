@@ -30,9 +30,6 @@ collections:
     output: true
     permalink: /:slug
 
-tag_page_layout: tag
-tag_page_dir: blog/tags
-
 defaults:
   - scope:
       path: "**/*"
