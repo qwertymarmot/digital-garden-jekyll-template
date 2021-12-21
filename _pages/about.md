@@ -6,7 +6,7 @@ permalink: /about
 
 # My Name is Brandon Cole
 
-I am driven by the constant pursuit of personal optimization. This pursuit leads me to read books and articles in an attempt understand various concepts related to physical and mental health, emotional intelligence, communication, leadership, technology, data analysis, and many others.
+I am driven by the constant pursuit of personal optimization. This pursuit leads me to read books and articles in an attempt understand various concepts related to physical and mental health,parenting, emotional intelligence, communication, leadership, technology, data analysis, and many others.
 
 Ideally you will be able to watch and grow with me in these areas as I cultivate my digital garden further.
 

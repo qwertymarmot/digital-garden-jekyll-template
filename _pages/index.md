@@ -19,7 +19,7 @@ My digital garden aims to solve my problem of unconnected knowledge and notes th
 
 This garden provides loose organization to facilitate for whimsy and serendipity of thought. I collect information from many different sources such as Articles, Books, Online classes, and Videos.
 
-This garden is also influenced by my early grasp of [[ZettelKasten]] systems. My notes system collects information first in Obsidian. From there as notes grow and connect I will upload them to my garden to continue growing publicly. The end goal is a knowledge warehouse that doesn't loose it's value overtime.
+This digital garden is also influenced by my early grasp of [[ZettelKasten]] systems. My notes system collects information first in Obsidian. From there as notes grow and connect I will upload them to my garden to continue growing publicly. The end goal is a knowledge warehouse that doesn't loose it's value overtime.
 
 <style>
   .wrapper {
