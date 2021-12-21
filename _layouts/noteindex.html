@@ -38,11 +38,11 @@ layout: default
     </side>
     <h1>Latest Note</h1>
       {% for note in site.notes limit:1 %}
-        ... Show the first post all big ...
+      <a href="{{ note.url }}"></a>
       {% endfor %}
       <h1>Recent Notes</h1>
         {% for note in site.notes offset:1 limit:2 %}
-          ... Show the next two posts ...
+        <a href="{{ note.url }}"></a>
         {% endfor %}
   </div>
 </article>
