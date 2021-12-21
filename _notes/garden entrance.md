@@ -1,5 +1,6 @@
 ---
 title: The Garden
+layout: noteindex
 ---
 
 ### Welcome to my digital garden!
@@ -21,11 +22,3 @@ Many of my thoughts and ideas come from what I read. Below you will find what I 
 - [[parenting|Parenting]]
 - [[productivity|Productivity]]
 - [[growthMindset|Growth Mindset]]
-
-<ul>
-  {% for note in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
