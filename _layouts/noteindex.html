@@ -38,11 +38,15 @@ layout: default
     </side>
     <h1>Latest Note</h1>
       {% for note in site.notes limit:1 %}
-      <a href="{{ note.url }}"></a>
+      <li>
+      <a href="{{ note.url }}">{{ note.title }}</a>
+    </li>
       {% endfor %}
       <h1>Recent Notes</h1>
         {% for note in site.notes offset:1 limit:2 %}
-        <a href="{{ note.url }}"></a>
+        <li>
+      <a href="{{ note.url }}">{{ note.title }}</a>
+    </li>
         {% endfor %}
   </div>
 </article>
