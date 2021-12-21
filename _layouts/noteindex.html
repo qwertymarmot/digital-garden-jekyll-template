@@ -37,21 +37,24 @@ layout: default
       {% endif %}
     </side>
     <h1>Latest Note</h1>
+    <ul>
       {% for note in site.notes limit:1 %}
-      <ul>
-      <li>
-      <a href="{{ note.url }}">{{ note.title }}</a>
-    </li>
-    </ul>
-      {% endfor %}
-      <h1>Recent Notes</h1>
-      <ul>
-        {% for note in site.notes offset:1 limit:2 %}
         <li>
-      <a href="{{ note.url }}">{{ note.title }}</a>
-    </li>
+          <h2><a href="{{ note.url }}">{{ note.title }}</a></h2>
+          {{ note.excerpt }}
+        </li>
+      {% endfor %}
     </ul>
-        {% endfor %}
+    <h1>Recent Notes</h1>
+    <ul>
+      {% for post in site.notes offset:1 limit:2 %}
+        <li>
+          <h2><a href="{{ note.url }}">{{ note.title }}</a></h2>
+          {{ note.excerpt }}
+        </li>
+      {% endfor %}
+    </ul>
+
   </div>
 </article>
 
