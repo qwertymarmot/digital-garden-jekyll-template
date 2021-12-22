@@ -10,5 +10,4 @@ I think one of the points made in the book that I attached to the most was the c
 
 I am looking forward to reading further into this book and the potential of shaking up other areas of my processes and mindset.
 
-<img src="/assets/deepwork.jpg"/>
-<em id="caption">Photo by <a href="https://unsplash.com/@sworupimages?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Saurav Thapa Shrestha</a> on <a href="https://unsplash.com/s/photos/deep-work?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></em>
+<img src="/assets/deepwork.jpg"/ alt="Photo by Saurav Thapa Shrestha on Unsplash">
