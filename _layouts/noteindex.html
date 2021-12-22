@@ -39,7 +39,7 @@ layout: default
   </div>
 
   <div>
-    <h1>Latest Note</h1>
+    <h2>Latest Note</h2>
     <ul>
       {% for note in site.notes limit:1 %}
         <li>
@@ -47,7 +47,7 @@ layout: default
         </li>
       {% endfor %}
     </ul>
-    <h1>Recent Notes</h1>
+    <h2>Recent Notes</h2>
     <ul>
       {% for note in site.notes offset:1 limit:2 %}
         <li>

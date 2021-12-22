@@ -5,7 +5,7 @@ layout: noteindex
 
 ### Welcome to my digital garden!
 
-Hi, I'm Brandon. Welcome to my [[Digital Garden]]. This is where I plant my thoughts and ideas and watch them grow
+Hi, I'm Brandon. Welcome to my [[digitalGardening|Digital Garden]]. This is where I plant my thoughts and ideas and watch them grow
 
 ### Books
 Many of my thoughts and ideas come from what I read. Below you will find what I am currently reading and what I have recently finished reading.
