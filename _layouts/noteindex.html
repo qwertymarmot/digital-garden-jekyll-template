@@ -16,6 +16,25 @@ layout: default
       {{ content }}
     </content>
 
+    <div>
+      <h2>Latest Note</h2>
+      <ul>
+        {% for note in site.notes limit:1 %}
+          <li>
+            <a href="{{ note.url }}">{{ note.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+      <h2>Recent Notes</h2>
+      <ul>
+        {% for note in site.notes offset:1 limit:2 %}
+          <li>
+            <a href="{{ note.url }}">{{ note.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+
     <side style="font-size: 0.9em">
       <h3 style="margin-bottom: 1em">Notes mentioning this note</h3>
       {% if page.backlinks.size > 0 %}
@@ -38,24 +57,6 @@ layout: default
     </side>
   </div>
 
-  <div>
-    <h2>Latest Note</h2>
-    <ul>
-      {% for note in site.notes limit:1 %}
-        <li>
-          <a href="{{ note.url }}">{{ note.title }}</a>
-        </li>
-      {% endfor %}
-    </ul>
-    <h2>Recent Notes</h2>
-    <ul>
-      {% for note in site.notes offset:1 limit:2 %}
-        <li>
-          <a href="{{ note.url }}">{{ note.title }}</a>
-        </li>
-      {% endfor %}
-    </ul>
-  </div>
 </article>
 
 <hr>
