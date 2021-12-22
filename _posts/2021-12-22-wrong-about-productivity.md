@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I have been thinking wrong about productivity
+author: Brandon
 tag: discussion
 ---
 Have you ever read something and had your world turned upside down? I've been experiencing that feeling as I have been reading the book [[Deep work: rules for focused success in a distracted world]]. See I went into this book thinking that productivity was all about optimization. Using electronic tools to produce more and in a faster way. I will admit I am only about a hundred pages into reading this book so I have a lot more to process. However what I am picking up so far is a call to lower the drive toward the optimization processes I have been pursuing and instead focus on deep work and mastering skills.
