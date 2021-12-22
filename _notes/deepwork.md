@@ -1,6 +1,6 @@
 ---
 title: Deep work rules for focused success in a distracted world
-layout: noteindex
+layout: note
 tag: book
 ---
 
