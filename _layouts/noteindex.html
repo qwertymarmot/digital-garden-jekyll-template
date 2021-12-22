@@ -36,6 +36,9 @@ layout: default
       </div>
       {% endif %}
     </side>
+  </div>
+
+  <div>
     <h1>Latest Note</h1>
     <ul>
       {% for note in site.notes limit:1 %}
@@ -52,7 +55,6 @@ layout: default
         </li>
       {% endfor %}
     </ul>
-
   </div>
 </article>
 
