@@ -101,12 +101,14 @@ h6 {
 
 .navbar {
   text-decoration: none;
+  color: $color-primary;
 }
 
 a {
   transition: background 300ms;
   padding: 0 0.1em;
-  color: $color-primary;
+  color: #38b145;
+  font-weight: bold;
   &:hover {
     color: black !important;
     background: #fffaf1;
