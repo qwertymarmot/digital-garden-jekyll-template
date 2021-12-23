@@ -4,8 +4,9 @@ layout: default
 <h1>Books</h1>
 
 <ul>
-  {% for tag in site.notes %}
-  {% assign t = tag | first %}
-    <li><a href="/{{ site.tag_page_dir }}/{{ t | slugify: 'pretty' }}/">{{ t }}</a></li>
+  {% for book in site.notes.book %}
+    <li>
+      <h2><a href="{{ note.url }}">{{ note.title }}</a></h2>
+    </li>
   {% endfor %}
 </ul>
