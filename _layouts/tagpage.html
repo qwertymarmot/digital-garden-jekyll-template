@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
+<h1>Books</h1>
 
-{% for post in site.tags.book %}
-<h2>{{ post.title }}</h2>
-<time>{{ post.date }}</time>
-{% endfor %}
+<ul>
+  {% for note in site.tags.book %}
+  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  {% endfor %}
