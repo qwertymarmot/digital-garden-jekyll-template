@@ -5,9 +5,8 @@ layout: default
 
 <ul>
   {% for note in site.notes%}
-  {% for book in note.book%}
     <li>
-      <a href="{{ note.url }}">{{ note.title }}</a>
+      <a href="{{ note.url }}">{{ note.title }}{{note.book}}</a>
     </li>
   {% endfor %}
 </ul>
