@@ -3,10 +3,11 @@ layout: default
 ---
 <h1>Books</h1>
 
+{% assign books = site.notes | where: "book", "nonfiction" %}
 <ul>
-  {% for note in site.notes%}
+  {% for note in books%}
     <li>
-      <a href="{{ note.url }}">{{ note.title }}{{note.book}}</a>
+      <a href="{{ note.url }}">{{ note.title }}</a>
     </li>
   {% endfor %}
 </ul>
