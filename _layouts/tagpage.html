@@ -17,7 +17,7 @@ layout: default
     <h2>Fiction</h2>
     {% assign fiction = site.notes | where: "book", "fiction" %}
     <ul>
-      {% for note in fiction | group_by:"series"%}
+      {% for note in fiction | sort: "series" %}
         <li>
           <a href="{{ note.url }}">{{ note.title }}</a>
         </li>
