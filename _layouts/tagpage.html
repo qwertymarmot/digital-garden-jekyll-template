@@ -3,8 +3,23 @@ layout: default
 ---
 <h1>Books</h1>
 
-<ul>
-  {% for note in site.tags[include.book] %}
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-  {% endfor %}
-</ul>
+{% for tag in tags %}
+	<h2 id="{{ tag | slugify }}">{{ tag }}</h2>
+	<ul>
+	 {% for note in site.notes %}
+		 {% if note.tags contains tag %}
+		 <li>
+		 <h3>
+		 <a href="{{ post.url }}">
+		 {{ note.title }}
+		 <small>{{ note.date | date_to_string }}</small>
+		 </a>
+		 {% for tag in note.tags %}
+			 <a class="tag" href="/blog/tag/#{{ tag | slugify }}">{{ tag }}</a>
+		 {% endfor %}
+		 </h3>
+		 </li>
+		 {% endif %}
+	 {% endfor %}
+	</ul>
+{% endfor %}
