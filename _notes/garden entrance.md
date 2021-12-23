@@ -18,6 +18,9 @@ Many of my thoughts and ideas come from what I read. Below you will find what I 
 - [[Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead]]
 - [[The Power of Habit: Why We Do What We Do in Life and Business]]
 
+**All Books**
+- [[books|Books]]
+
 ### Thoughts on my mind
 - [[parenting|Parenting]]
 - [[productivity|Productivity]]
