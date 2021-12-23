@@ -1,5 +1,5 @@
 ---
-title: Deep work rules for focused success in a distracted world
+title: Deep work
 layout: note
 tag: book
 ---
