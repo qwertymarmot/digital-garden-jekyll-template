@@ -3,9 +3,20 @@ layout: default
 ---
 <h1>Books</h1>
 
-{% assign books = site.notes | where: "book", "nonfiction" %}
+<h2>Nonfiction</h2>
+{% assign nonfiction = site.notes | where: "book", "nonfiction" %}
 <ul>
-  {% for note in books%}
+  {% for note in nonfiction%}
+    <li>
+      <a href="{{ note.url }}">{{ note.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<h2>Fiction</h2>
+{% assign fiction = site.notes | where: "book", "fiction" %}
+<ul>
+  {% for note in fiction%}
     <li>
       <a href="{{ note.url }}">{{ note.title }}</a>
     </li>
