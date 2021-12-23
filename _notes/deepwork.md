@@ -4,7 +4,7 @@ layout: note
 book: nonfiction
 ---
 <div style="float:left;
-margin:0 15px 10px 0;
+margin:0 50px 10px 0;
 width:50%;
 height:auto;
 max-width:200px;
@@ -25,6 +25,7 @@ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)" ma
 - Efficiency and speed of task completion has lead to busyness. We have begun to believe that this indicates success but in reality it moves us more replaceable by another person or machine.
 - I've been so wrong about productivity
 - Because the business push is for these productivity areas it becomes more and more easy for a person who knows how to focus on deep work to learn new skills and become a top performer in their industry.
+
 ---
 Newport, C. (2016). _Deep work: Rules for focused success in a distracted world_.
 ---
