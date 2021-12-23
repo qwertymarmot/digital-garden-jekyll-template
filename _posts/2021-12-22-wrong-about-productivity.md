@@ -12,5 +12,6 @@ I am looking forward to reading further into this book and the potential of shak
 
 <figure>
 <img src="/assets/deepwork.jpg"/>
-<figcaption>Photo by <a href="https://unsplash.com/@sworupimages?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Saurav Thapa Shrestha</a> on <a href="https://unsplash.com/s/photos/deep-work?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</figcaption>
-</figure>
+<figcaption>Photo by <a href="https://unsplash.com/@sworupimages?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Saurav Thapa Shrestha</a> on <a href="https://unsplash.com/s/photos/deep-work?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</figcaption>
+<figure>
