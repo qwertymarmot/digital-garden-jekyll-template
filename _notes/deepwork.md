@@ -6,4 +6,4 @@ book: nonfiction
 
 Under construction ...
 
-[books|All Books]
+[[books|All Books]]
