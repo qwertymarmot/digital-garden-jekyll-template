@@ -2,6 +2,25 @@
 layout: default
 ---
 <h1>Books</h1>
+<h2>Nonfiction</h2>
+{% assign nonfiction = site.notes | where: "book", "nonfiction" %}
+<ul>
+  {% for note in nonfiction%}
+    <li>
+      <a href="{{ note.url }}">{{ note.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<h2>Fiction</h2>
+{% assign fiction = site.notes | where: "book", "fiction" %}
+<ul>
+  {% for note in fiction%}
+    <li>
+      <a href="{{ note.url }}">{{ note.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 <article>
   <side style="font-size: 0.9em">
     <h3 style="margin-bottom: 1em">Notes mentioning this note</h3>
@@ -23,25 +42,6 @@ layout: default
     </div>
     {% endif %}
   </side>
-  <h2>Nonfiction</h2>
-  {% assign nonfiction = site.notes | where: "book", "nonfiction" %}
-  <ul>
-    {% for note in nonfiction%}
-      <li>
-        <a href="{{ note.url }}">{{ note.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <h2>Fiction</h2>
-  {% assign fiction = site.notes | where: "book", "fiction" %}
-  <ul>
-    {% for note in fiction%}
-      <li>
-        <a href="{{ note.url }}">{{ note.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
 </article>
 <hr>
 {% include notes_graph.html %}
