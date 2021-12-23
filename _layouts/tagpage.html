@@ -4,9 +4,9 @@ layout: default
 <h1>Books</h1>
 
 <ul>
-  {% for book in site.notes.book %}
+  {% for note in site.notes.book%}
     <li>
-      <h2><a href="{{ note.url }}">{{ note.title }}</a></h2>
+      <a href="{{ note.url }}">{{ note.title }}</a>
     </li>
   {% endfor %}
 </ul>
