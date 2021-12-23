@@ -27,6 +27,6 @@ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)" ma
 - Because the business push is for these productivity areas it becomes more and more easy for a person who knows how to focus on deep work to learn new skills and become a top performer in their industry.
 
 ---
-Newport, C. (2016). _Deep work: Rules for focused success in a distracted world_.
+Newport, C. (2016). _Deep work: Rules for focused success in a distracted world
 ---
 [[books|All Books]]
