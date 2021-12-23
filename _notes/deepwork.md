@@ -29,4 +29,4 @@ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)" ma
 ---
 Newport, C. (2016). _Deep work: Rules for focused success in a distracted world
 ---
-[[books|All Books]]
+<br>[[books|All Books]]
