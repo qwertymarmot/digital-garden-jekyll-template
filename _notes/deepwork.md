@@ -1,5 +1,5 @@
 ---
-title: Deep work
+title: Deep Work
 layout: note
 tag: book
 ---
