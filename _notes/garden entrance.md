@@ -15,8 +15,8 @@ Many of my thoughts and ideas come from what I read. Below you will find what I 
 - [[battleoftheLabyrinth|The Battle of the Labyrinth (Percy Jackson and the Olympians, Book 4)]]
 
 **Recently finished:**
-- [[Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead]]
-- [[The Power of Habit: Why We Do What We Do in Life and Business]]
+- [[daringGreatly|Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead]]
+- [[powerofHabit|The Power of Habit: Why We Do What We Do in Life and Business]]
 
 **All Books**
 - [[books|Books]]
