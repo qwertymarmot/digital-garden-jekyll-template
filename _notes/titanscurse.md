@@ -1,8 +1,9 @@
 ---
 title: The Titan's Curse
-layout: note
+layout: book
 book: fiction
 series: Percy Jackson
+bookauthor: Rick Riordan
 ---
 <div style="float:left;
 margin:0 50px 10px 0;

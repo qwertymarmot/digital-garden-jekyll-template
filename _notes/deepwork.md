@@ -1,7 +1,8 @@
 ---
 title: Deep Work
-layout: note
+layout: book
 book: nonfiction
+bookauthor: Cal Newport
 ---
 <div style="float:left;
 margin:0 50px 10px 0;

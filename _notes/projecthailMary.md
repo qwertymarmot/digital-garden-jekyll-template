@@ -1,7 +1,8 @@
 ---
 title: Project Hail Mary
-layout: note
+layout: book
 book: fiction
+bookauthor: Andy Weir
 ---
 <div style="float:left;
 margin:0 50px 10px 0;
