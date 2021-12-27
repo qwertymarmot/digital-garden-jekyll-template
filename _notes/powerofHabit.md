@@ -1,5 +1,5 @@
 ---
-title: Daring Greatly
+title: The Power of Habit
 layout: book
 book: nonfiction
 bookauthor: Charles Duhigg
