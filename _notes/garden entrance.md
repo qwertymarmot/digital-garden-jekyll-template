@@ -12,11 +12,11 @@ Many of my thoughts and ideas come from what I read. Below you will find what I 
 
 **My Current Reads:**
 - [[deepWork|Deep work: rules for focused success in a distracted world]]
-- [[battleoftheLabyrinth|The Battle of the Labyrinth (Percy Jackson and the Olympians, Book 4)]]
+- [[lastolympian|The Last Olympian (Percy Jackson and the Olympians, Book 5)]]
 
 **Recently finished:**
 - [[daringGreatly|Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead]]
-- [[powerofHabit|The Power of Habit: Why We Do What We Do in Life and Business]]
+- [[battleoftheLabyrinth|The Battle of the Labyrinth (Percy Jackson and the Olympians, Book 4)]]
 
 **All Books**
 - [[books|Books]]
