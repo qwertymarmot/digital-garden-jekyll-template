@@ -11,8 +11,6 @@ permalink: /
   <span style="font-weight: bold">[[garden entrance|Stroll through the Garden]]</span>
 </p>
 
-Test Change
-
 Hello my name is Brandon. I am an application support administrator and a department manager for an organization that provides IT support and services to libraries.
 
 I am also a student finishing up my Computer Information systems degree through online classes.
