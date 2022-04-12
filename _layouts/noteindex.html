@@ -29,16 +29,33 @@ layout: default
       {% endfor %}
       </div>
       {% else %}
-
       <div style="font-size: 0.9em">
         <p>
           There are no notes linking to this note.
         </p>
       </div>
       {% endif %}
+      <div>
+        <h2>Latest Note</h2>
+        <ul>
+          {% for note in site.notes limit:1 %}
+            <li>
+              <a href="{{ note.url }}">{{ note.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+        <h2>Recent Notes</h2>
+        <ul>
+          {% for note in site.notes offset:1 limit:2 %}
+            <li>
+              <a href="{{ note.url }}">{{ note.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
     </side>
   </div>
-
+  <!---
   <div>
     <h2>Latest Note</h2>
     <ul>
@@ -57,7 +74,7 @@ layout: default
       {% endfor %}
     </ul>
   </div>
-  
+  --->
 </article>
 
 <hr>
