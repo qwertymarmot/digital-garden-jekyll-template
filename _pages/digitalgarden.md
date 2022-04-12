@@ -1,7 +1,9 @@
 ---
-title: The Garden
-layout: noteindex
+layout: page
+title: Digital Garden
+permalink: /digitalgarden
 ---
+
 
 ### Welcome to my digital garden!
 
