@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-# Welcome to the Garden! 🌿
+# Welcome to my site!
 
 Hello my name is Brandon. I am an application support administrator and a department manager for an organization that provides IT support and services to libraries.
 
