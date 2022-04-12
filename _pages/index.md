@@ -7,10 +7,6 @@ permalink: /
 
 # Welcome to the Garden! 🌿
 
-<p style="padding: 1em; background: #ffffff; border-radius: 4px; text-shadow: 0 1px white; box-shadow: -10px -10px 30px rgb(255 255 255 / 5%), 10px 10px 30px rgb(0 0 0 / 20%);">
-  <span style="font-weight: bold">[[garden entrance|Stroll through the Garden]]</span>
-</p>
-
 Hello my name is Brandon. I am an application support administrator and a department manager for an organization that provides IT support and services to libraries.
 
 I am also a student finishing up my Computer Information systems degree through online classes.
