@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: noteindex
 title: Digital Garden
 permalink: /digitalgarden
 ---
