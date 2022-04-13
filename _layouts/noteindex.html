@@ -46,8 +46,7 @@ layout: default
         </ul>
         <h3>Recent Notes</h3>
         <ul>
-          {{% assign notes = site.notes | sort: 'last_modified_at' %}}
-          {% for note in notes offset:1 limit:2 %}
+          {% for note in site.notes offset:1 limit:2 %}
             <li>
               <a href="{{ note.url }}">{{ note.title }}</a>
             </li>
